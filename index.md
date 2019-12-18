@@ -1,1 +1,1 @@
-# GitHub Project Pages for Projector
+# Projector Project Pages
